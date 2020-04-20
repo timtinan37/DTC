@@ -27,6 +27,9 @@
   <!-- Template Main CSS File -->
   <link href="{{ asset('css/style.css') }}" rel="stylesheet">
 
+  <!-- Jquery -->
+  <script src="{{ asset('vendor/jquery/jquery.min.js') }}"></script>
+
 </head>
 
 <body>

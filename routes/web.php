@@ -15,4 +15,4 @@ Route::get('/', function () {
     return view('index');
 });
 
-Route::post('/mail');
+Route::post('/mail', 'ClientController')->name('mail');
