@@ -1,5 +1,5 @@
 <div>
-	<p>{{ $client->message }}</p>
+	<pre>{{ $client->message }}</pre>
 </div>
 <div>
 	<strong>Client's Info</strong><br>
