@@ -9,6 +9,19 @@
   <meta content="Official Website For Dhaka Tax Consultants" name="descriptison">
   <meta name="author" content="Tahsin Abrar, Tariq Imtinan">
 
+  <!-- meta tags for facebook -->
+  <meta property="og:title" content="Dhaka Tax Consultants">
+  <meta property="og:description" content="Tax, VAT & Total Business Solution">
+  <meta property="og:image" content="{{ asset('img/Logo 01.jpg') }}">
+  <meta property="og:url" content="http://dhakatax.com">
+  <meta property="og:type" content="website" />
+
+  <!-- meta tags for twitter -->
+  <meta name="twitter:title" content="Dhaka Tax Consultants">
+  <meta name="twitter:description" content="Tax, VAT & Total Business Solution">
+  <meta name="twitter:image" content="{{ asset('img/Logo 01.jpg') }}">
+  <meta name="twitter:card" content="summary_large_image">
+
   <!-- Favicons -->
   <link rel="apple-touch-icon" sizes="180x180" href="{{ asset('img/favicons/apple-touch-icon.png') }}">
   <link rel="icon" type="image/png" sizes="32x32" href="{{ asset('img/favicons/favicon-32x32.png') }}">
