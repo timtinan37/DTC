@@ -8,7 +8,7 @@
 
     <div class="row" data-aos="fade-up" data-aos-delay="100">
       <div class="col-lg-6">
-        <div class="info-box mb-4">
+        <div class="info-box mb-4 type-1">
           <i class="bx bx-map"></i>
           <h3>Our Address</h3>
           <p>34 Nur Jahan Sharif Plaza (4th floor), Purana Paltan, Dhaka-1000</p>
@@ -18,7 +18,7 @@
       </div>
 
       <div class="col-lg-3 col-md-6">
-        <div class="info-box  mb-4">
+        <div class="info-box  mb-4 type-2">
           <i class="bx bx-envelope"></i>
           <h3>Email Us</h3>
           <p>info@dhakatax.com</p>
@@ -28,7 +28,7 @@
       </div>
 
       <div class="col-lg-3 col-md-6">
-        <div class="info-box  mb-4">
+        <div class="info-box  mb-4 type-1">
           <i class="bx bx-phone-call"></i>
           <h3>Call Us</h3>
           <p>+880 1716-645486</p>

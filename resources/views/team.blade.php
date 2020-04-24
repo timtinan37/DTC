@@ -2,7 +2,7 @@
   <div class="container">
     <div class="section-title" data-aos="fade-in" data-aos-delay="100">
       <h2>Team</h2>
-      <p>DTC has CA, CMA, CGA, CS qualified members, ITP and Lawyers experienced on Pharmaceutical, RMG, Software & IT, Hospital, Tourism, Bank, Insurance, EPZ, SEZ, Society, Club and NGO’s compliances.</p>
+      <p><strong>Dhaka Tax Consultants (DTC)</strong> has CA, CMA, CGA, CS qualified members, ITP and Lawyers experienced on Pharmaceutical, RMG, Software & IT, Hospital, Tourism, Bank, Insurance, EPZ, SEZ, Society, Club and NGO’s compliances.</p>
     </div>
 
     <div class="row justify-content-center">
@@ -14,11 +14,7 @@
             <span>Chief Adviser</span>
             <br>
             <span>B Com (Hon’s), M Com (Accounting), MBA(Finance)</span>
-            <span>Member-ICAB, IIBA, ICGAB, DBA</span>
-            <br>
-            <a href="https://www.facebook.com/mohmmadfakhrul.alampatwary"><i class="icofont-facebook"></i></a>
-            <a href="https://www.linkedin.com/in/md-fakhrul-alam-patwary-fca-b19b3641/">
-            <i class="icofont-linkedin"></i></a>
+            <span>Member-ICAB, IIAB, ICGAB, DBA</span>
           </div>
         </div>
       </div>
@@ -34,9 +30,6 @@
             <br>
             <span>Barrister-at-Law, LL.B (Hon’s) STU, LL.M (SEU)</span>
             <span>Member- Dhaka Bar Association, Dhaka Taxes Bar Association</span>
-            <br>
-            <a href="https://www.facebook.com/nazmul.huda.56863"><i class="icofont-facebook"></i></a>
-            <a href="https://www.linkedin.com/in/nazmul-huda-6b145531/"><i class="icofont-linkedin"></i></a>
           </div>
         </div>
       </div>
@@ -51,8 +44,6 @@
             <span>BBA (CU), MBA (Accounting)</span>
             <span>Member- ICSB</span>
             <span>&nbsp;</span>
-            <br>
-            <a href="https://www.facebook.com/rajib.chakraborty.1840') }}"><i class="icofont-facebook"></i></a>
           </div>
         </div>
       </div>
@@ -68,9 +59,6 @@
             <br>
             <span>M Com (Economics)</span>
             <span>Member- ICMAB</span>
-            <br>
-            <a href="https://www.facebook.com/simul.d.nath"><i class="icofont-facebook"></i></a>
-            <a href="https://www.linkedin.com/in/simul-chandra-debnath-2a608431/') }}"><i class="icofont-linkedin"></i></a>
           </div>
         </div>
       </div>
@@ -84,9 +72,6 @@
             <br>
             <span>M Com, CA (Part Qualified), ITP</span>
             <span>Member- DTBA</span>
-            <br>
-            <a href="https://www.facebook.com/salek.zaman.9"><i class="icofont-facebook"></i></a>
-            <a href="https://www.linkedin.com/in/salek-zaman-4a807a52/"><i class="icofont-linkedin"></i></a>
           </div>
         </div>
       </div>
@@ -101,9 +86,6 @@
           <span>Senior Consultant</span>
           <br>
             <span>M Com, M Sc (UK), PGD-SM(UK), PGD-TM, CGA (Part Qualified)</span>
-            <br>
-            <a href="https://www.facebook.com/amigo.royel"><i class="icofont-facebook"></i></a>
-            <a href="https://www.linkedin.com/in/sm-khuda-5852a980/') }}"><i class="icofont-linkedin"></i></a>
           </div>
         </div>
       </div>       
@@ -117,9 +99,6 @@
             <br>
             <span>MBA (CU), PGD-TM, CGA (Part Qualified)</span>
             <span>&nbsp;</span>
-            <br>
-            <a href="https://www.facebook.com/ataul.ranju"><i class="icofont-facebook"></i></a>
-            <a href="https://www.linkedin.com/in/ataul-hasan-935b8064/"><i class="icofont-linkedin"></i></a>
             </div>
           </div>
         </div>

@@ -73,7 +73,8 @@ h1, h2, h3, h4, h5, h6 {
   z-index: 997;
   transition: all 0.5s;
   padding: 20px 0;
-  background: rgba(103, 176, 209, 0.8);
+  /*background: rgba(103, 176, 209, 0.8);*/
+  background: #263f49;
 }
 
 #header.header-scrolled {
@@ -132,7 +133,8 @@ h1, h2, h3, h4, h5, h6 {
 .nav-menu a {
   display: block;
   position: relative;
-  color: #546e88;
+  /*color: #546e88;*/
+  color: #fff;
   padding: 22px 15px;
   transition: 0.3s;
   font-size: 13px;
@@ -507,6 +509,7 @@ section {
 
 .about .content p {
   margin-bottom: 30px;
+  text-align: justify;
 }
 
 .about .content .about-btn {
@@ -699,10 +702,17 @@ section {
   padding-bottom: 80px;
 }
 
+.contact .type-1 {
+  background: #d7e5f4;
+}
+
+.contact .type-2 {
+  background: #c1eef0;
+}
+
 .contact .info-box {
   color: #444444;
   /*background: #fff;*/
-  background: #c1eef0;
   text-align: center;
   box-shadow: 0 0 30px rgba(214, 215, 216, 0.6);
   padding: 20px 0 30px 0;

@@ -6,7 +6,7 @@
         <div class="content">
           <h3>Why should you choose DTC?</h3>
           <p>
-            Dhaka Tax Consultants (DTC) has a simple but strong philosophy which is “Make Clients’ Life Easy”.  Thus, we are fully committed to transfer our clients’ Tax, VAT and Compliance work load to our shoulder so that clients can focus on business. We want to become trusted partner of your business by ensuring highest level of professional ethics and competencies.
+            <strong>Dhaka Tax Consultants (DTC)</strong> has a simple but strong philosophy which is “Make Clients’ Life Easy”.  Thus, we are fully committed to transfer our clients’ Tax, VAT and Compliance work load to our shoulder so that clients can focus on business. We want to become trusted partner of your business by ensuring highest level of professional ethics and competencies.
           </p>
         </div>
       </div>
